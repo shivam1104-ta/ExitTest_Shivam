@@ -1,0 +1,6 @@
+Base_Package\Parent.class
+Pages\App_Page.class
+Pages\Media_Page.class
+Pages\Accessibility_Page.class
+Pages\Animation_Page.class
+Pages\Graphics_Page.class
